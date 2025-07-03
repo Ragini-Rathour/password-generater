@@ -1,4 +1,4 @@
 # password-generater
-This is my first Git Repository
+This is a password-generater
 <br>
 Author - Ragini Rathour
